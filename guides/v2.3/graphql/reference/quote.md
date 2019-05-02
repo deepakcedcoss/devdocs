@@ -88,7 +88,7 @@ The following returns information about a cart given a `cart_id`. Note that the 
 ```
 **Response**
 
-```json
+```text
 {
   "data": {
     "cart": {
@@ -200,7 +200,7 @@ mutation {
 
 **Response**
 
-```json
+```text
 {
   "data": {
     "addSimpleProductsToCart": {
@@ -311,7 +311,7 @@ mutation {
 
 **Response**
 
-```json
+```text
 {
   "data": {
     "setBillingAddressOnCart": {
@@ -388,7 +388,7 @@ mutation {
 
 **Response**
 
-```json
+```text
 {
   "data": {
     "createEmptyCart": "6XZA7q1ooLEI0jLz8DfFrfruEqgxGzlt"
@@ -443,7 +443,7 @@ mutation {
 
 **Response**
 
-```json
+```text
 {
   "data": {
     "applyCouponToCart": {
@@ -485,7 +485,7 @@ mutation {
 
 **Response**
 
-```json
+```text
 {
   "data": {
     "removeCouponFromCart": {

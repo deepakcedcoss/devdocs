@@ -7,11 +7,8 @@ pages:
 
     - label: Implementation
       children:
-        - label: GraphQL requests
+        - label: GraphQL request headers
           url: /graphql/send-request.html
-
-        - label: Get customer authorization token
-          url: /graphql/get-customer-authorization-token.html
 
         - label: Queries
           url: /graphql/queries.html
@@ -29,9 +26,6 @@ pages:
 
         - label: Create a custom urlResolver service
           url: /graphql/develop/create-custom-url-resolver.html
-
-        - label: Debugging GraphQL queries
-          url: /graphql/develop/debugging.html
 
         - label: Exception handling
           url: /graphql/develop/exceptions.html

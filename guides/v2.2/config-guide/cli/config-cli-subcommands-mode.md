@@ -51,12 +51,8 @@ bin/magento deploy:mode:show
 A message similar to the following displays:
 
 ```
-Current application mode: {mode}. (Note: Environment variables may override this value.)
+Current application mode: developer.
 ```
-
-where:
-
-  -   **`{mode}`** can be either `default`, `developer`, or `production`
 
 ## Change modes {#config-mode-change}
 
